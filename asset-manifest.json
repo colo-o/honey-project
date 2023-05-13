@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/honey-project)/static/css/main.d0c21164.css",
+    "main.js": "/honey-project)/static/js/main.01c5f76d.js",
+    "static/js/787.359857e5.chunk.js": "/honey-project)/static/js/787.359857e5.chunk.js",
+    "index.html": "/honey-project)/index.html",
+    "main.d0c21164.css.map": "/honey-project)/static/css/main.d0c21164.css.map",
+    "main.01c5f76d.js.map": "/honey-project)/static/js/main.01c5f76d.js.map",
+    "787.359857e5.chunk.js.map": "/honey-project)/static/js/787.359857e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0c21164.css",
+    "static/js/main.01c5f76d.js"
+  ]
+}
