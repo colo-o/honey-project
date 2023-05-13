@@ -247,7 +247,7 @@ const InitialHome = ({ setStep }: any) => {
 
 export default function App() {
   const [step, setStep] = useState(0);
-  const [props, api] = useSpring(
+  const [props, _] = useSpring(
     () => ({
       config: {
         tension: 180, friction: 12
